@@ -1,6 +1,6 @@
 # luminati
 
-To get CUSTOMER, YOURZONE and YOURPASS, please contact sales@luminati.io or Sign up
+To get CUSTOMER, YOURZONE and YOURPASS, please contact sales@luminati.io or sign up on www.luminati.io
 
 ## How to Use Luminati API
 ### Terms
