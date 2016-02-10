@@ -69,7 +69,7 @@ trigger.domain should not be modified to your domain name (its not a template). 
 
 - Get the bandwidth stats for a zone: /api/get_zone_bw
 
-curl -H "X-Hola-Auth: $USERNAME-key-$PASSWORD" "http://luminati.io/api/get_zone_bw?zone=YOURZONE&details=1"
+```curl -H "X-Hola-Auth: $USERNAME-key-$PASSWORD" "http://luminati.io/api/get_zone_bw?zone=YOURZONE&details=1"```
 - Get the bandwidth stats for all your zones: /api/get_customer_bw
 
-curl -H "X-Hola-Auth: $USERNAME-key-$PASSWORD" "http://luminati.io/api/get_customer_bw?details=1"
+```curl -H "X-Hola-Auth: $USERNAME-key-$PASSWORD" "http://luminati.io/api/get_customer_bw?details=1"```
