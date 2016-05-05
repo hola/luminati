@@ -1,1 +1,1 @@
-Moved to https://github.com/luminati-io/API
+Moved to https://github.com/luminati-io/api
